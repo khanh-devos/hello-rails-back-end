@@ -32,6 +32,7 @@
 # 📖 About <a name="about-project"></a>
 
 **Hello-rails-back-end** will be an API for [Hello-react-front-end](http://localhost:3000/) to fetch a random message.
+- [front-end git-link](https://github.com/khanh-devos/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
